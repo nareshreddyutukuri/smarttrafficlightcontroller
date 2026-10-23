@@ -1,0 +1,6 @@
+{
+  "DESIGN_NAME": "traffic_controller",
+  "VERILOG_FILES": "dir::src/traffic_controller.v",
+  "CLOCK_PORT": "clk",
+  "CLOCK_PERIOD": 20.0
+}
